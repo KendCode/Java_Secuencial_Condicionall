@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Kender\Desktop\java en clases\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+619082870.index
+2481950686.index
